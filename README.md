@@ -1,50 +1,69 @@
-# Welcome to your Expo app 👋
+# 🌙 Lofi Vibes
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Relax. Focus. Chill.**  
 
-## Get started
+**Lofi Vibes** is a cozy lofi music app for **Android**, built with **Expo Go**. Immerse yourself in soothing beats, ambient sounds, and piano melodies your perfect companion for studying, relaxing, or winding down.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
+- **Personal Accounts** – sign up and log in with Firebase Authentication  
+- **Custom Avatars** – pick your avatar and make your profile yours  
+- **Built-in Playlists:**  
+  - **Lofi Mix** – curated lofi tracks  
+  - **Favorites** – save your favorite songs  
+  - **Nature Sounds** – calming environmental sounds  
+  - **Piano Vibes** – soft piano melodies  
+- **Personalised Listening Experience** – everything saved per user  
+
+---
+
+## 🎨 App Design
+
+- **Home Screen**  
+- **Player Screen**  
+- **Library / Playlists**  
+- **Profile / Avatar Selection**  
+## UI Design
+
+![App UI Design](./assets/images/UiDesign.jpg)
+)
+
+
+
+---
+
+## 🚀 Getting Started
+
+This project was created with [Expo](https://expo.dev) using [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+### 1. Install dependencies
+
+
+npm install
 2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+npx expo start
+Open on Android using:
 
-In the output, you'll find options to open the app in a
+Expo Go
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Android emulator
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Start building by editing files in the app directory. This project uses file-based routing.
 
-## Get a fresh project
+🔄 Reset the Project
+To start fresh:
 
-When you're ready, run:
-
-```bash
 npm run reset-project
-```
+Moves starter code to app-example and creates a blank app directory to develop your own version.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+📚 Learn More
+Expo Documentation
 
-## Learn more
+Learn Expo Tutorial
 
-To learn more about developing your project with Expo, look at the following resources:
+Firebase Authentication Docs
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
