@@ -28,7 +28,7 @@
 ## UI Design
 
 ![App UI Design](./assets/images/UiDesign.jpg)
-)
+
 
 
 
