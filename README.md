@@ -15,7 +15,7 @@
   - **Favorites** – save your favorite songs  
   - **Nature Sounds** – calming environmental sounds  
   - **Piano Vibes** – soft piano melodies  
-- **Personalized Listening Experience** – everything saved per user  
+- **Personalised Listening Experience** – everything saved per user  
 
 ---
 
@@ -27,7 +27,8 @@
 - **Profile / Avatar Selection**  
 ## UI Design
 
-(./assets/UiDesign.png/)
+
+![App UI Design](./assets/images/UiDesign.png)
 
 
 ---
