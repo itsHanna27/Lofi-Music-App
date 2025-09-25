@@ -25,7 +25,9 @@
 - **Player Screen**  
 - **Library / Playlists**  
 - **Profile / Avatar Selection**  
+## UI Design
 
+(./assets/UiDesign.png/)
 
 
 ---
@@ -61,12 +63,5 @@ Expo Documentation
 Learn Expo Tutorial
 
 Firebase Authentication Docs
-
-🌐 Community
-Connect with other app creators:
-
-Expo on GitHub
-
-Expo Discord
 
 
