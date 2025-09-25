@@ -42,6 +42,7 @@ This project was created with [Expo](https://expo.dev) using [`create-expo-app`]
 
 
 `npm install`
+
 2. Start the app
 
 npx expo start
@@ -56,7 +57,8 @@ Start building by editing files in the app directory. This project uses file-bas
 🔄 Reset the Project
 To start fresh:
 
-npm run reset-project
+`npm run reset-project`
+
 Moves starter code to app-example and creates a blank app directory to develop your own version.
 
 📚 Learn More
