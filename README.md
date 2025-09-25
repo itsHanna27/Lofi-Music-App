@@ -41,7 +41,7 @@ This project was created with [Expo](https://expo.dev) using [`create-expo-app`]
 ### 1. Install dependencies
 
 
-npm install
+`npm install`
 2. Start the app
 
 npx expo start
