@@ -27,7 +27,10 @@
 - **Profile / Avatar Selection**  
 ## UI Design
 
-![App UI Design](./assets/images/UiDesign.jpg)
+![App UI Design](./assets/images/![UiDesign](https://github.com/user-attachments/assets/b95481a1-d5a3-43b2-a04c-15f1acfc2ebe)
+)
+![Uploading UiDesign.jpg…]()
+
 
 ---
 
