@@ -2,7 +2,7 @@
 
 **Relax. Focus. Chill.**  
 
-**Lofi Vibes** is a cozy lofi music app for **Android**, built with **Expo Go**. Immerse yourself in soothing beats, ambient sounds, and piano melodies—your perfect companion for studying, relaxing, or winding down.
+**Lofi Vibes** is a cozy lofi music app for **Android**, built with **Expo Go**. Immerse yourself in soothing beats, ambient sounds, and piano melodies your perfect companion for studying, relaxing, or winding down.
 
 ---
 
@@ -27,9 +27,7 @@
 - **Profile / Avatar Selection**  
 ## UI Design
 
-
 ![App UI Design](./assets/images/UiDesign.jpg)
-
 
 ---
 
