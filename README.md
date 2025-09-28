@@ -36,7 +36,8 @@
 
 ## 🚀 Getting Started
 
-This project was created with [Expo](https://expo.dev) using [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project was built with React Native using Expo. To run the app, you’ll need Node.js and Expo Go installed.
+
 
 ### 1. Install dependencies
 
