@@ -8,14 +8,14 @@
 
 ## ✨ Features
 
-- **Personal Accounts** – sign up and log in with Firebase Authentication  
-- **Custom Avatars** – pick your avatar and make your profile yours  
+- **Personal Accounts** - sign up and log in with Firebase Authentication  
+- **Custom Avatars** - pick your avatar and make your profile yours  
 - **Built-in Playlists:**  
-  - **Lofi Mix** – curated lofi tracks  
-  - **Favorites** – save your favorite songs  
-  - **Nature Sounds** – calming environmental sounds  
-  - **Piano Vibes** – soft piano melodies  
-- **Personalised Listening Experience** – everything saved per user  
+  - **Lofi Mix** - curated lofi tracks  
+  - **Favorites** - save your favorite songs  
+  - **Nature Sounds** - calming environmental sounds  
+  - **Piano Vibes** - soft piano melodies  
+- **Personalised Listening Experience** - everything saved per user  
 
 ---
 
